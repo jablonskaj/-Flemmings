@@ -10,10 +10,10 @@ Flamingos always appear in the left corner of the board and start to go to the r
 
 There are foure skills that can be assigned:
 
-_Bubble_  appear on a flaming and prevent flemming from the coconut rain (bubble icon)
-_Digger_ dig downwards (axe icon)
-_Blocker_ stand still and prevent other flemmings from passing (stop icon)
-_Bomber_ explode after a five-second timer (bomb icon)
+* _Bubble_  appear on a flaming and prevent flemming from the coconut rain (bubble icon)
+* _Digger_ dig downwards (axe icon)
+* _Blocker_ stand still and prevent other flemmings from passing (stop icon)
+* _Bomber_ explode after a five-second timer (bomb icon)
 
 Player can mute/unmute and pause the game using the right button in the bottom menu. It Is also possible to increase/decrease the speed of appearance flemmings on the board.
 
