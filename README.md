@@ -55,10 +55,6 @@ Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszk�
   * Author : _Bart Kelsey_  
   * License: CC-BY 3.0  
   
-* [Explosion](https://opengameart.org/content/explosion-0)  
-  * Author : _TinyWorld_
-  * License: CC-BY 3.0  
-  
 * [Sound2](https://opengameart.org/content/menu-choice)  
   * License: CC-0
 * [Alarm](https://opengameart.org/content/short-alarm)  
@@ -71,6 +67,10 @@ Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszk�
 * [Sound4](https://opengameart.org/content/cork)  
   * Author: _Blender Foundation_
   * License: CC-BY 3.0
+  
+* [Explosion](https://opengameart.org/content/explosion-0)  
+  * Author : _TinyWorld_
+  * License: CC-BY 3.0  
 
 ** Grafika/Graphics**
 
@@ -88,13 +88,9 @@ Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszk�
    
 * [Palm](https://gallery.yopriceville.com/Free-Clipart-Pictures/Trees-PNG-Clipart/Palm_Tree_PNG_Clipart_Picture-935700639&sa=U&ved=0ahUKEwjizda6pJLMAhUFtxQKHW02DakQwW4IIjAG&usg=AFQjCNHXgVU36vHipcLn0MbIHHcUinXkWQ#.W-67uC13AdV)
    * Trees PNG Clipart - Gallery Yopriceille
-	
-   
+	   
 * [Cursor](https://www.clipartmax.com/so/cursor/)  
    * clipartmax
-
 * [Puddle](https://gallery.yopriceville.com/Free-Clipart-Pictures/Transparent_Water_PNG_Clipart#.W-nlAC2Bg_U)
-
-
 * [WoodenTile](https://gallery.yopriceville.com/Backgrounds/Wooden_Background#.W-np8i2BjUo) 
 
