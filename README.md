@@ -2,7 +2,7 @@
 Game based on _Lemmings_ video game developed by DMA Design 
 
 ## Aim of the game
-The goal is to guide at least a certain percentage of pink Flamingos to the exit by clearing the passage through the landscape for the lemmings.
+The goal is to guide at least a certain percentage of pink flemmings to the exit by clearing the passage through the landscape for the lemmings.
  
 ## Rules
 
@@ -43,9 +43,9 @@ Gra może zostać wyciszona lub zatrzymana przy użyciu dolnego menu. Dodatkowo,
     
 Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszką ikonę zamknięcia _x_.      
 
-## Żródła / Sources: 
+## Źródła / Sources: 
 
-**Muzyka / Sounds**
+** Muzyka / Sounds**
 
 * [_Sandy seaside_ ](https://opengameart.org/content/sandy-seaside-2)    
   * Author : _Spring-Enterprises_   
