@@ -13,7 +13,7 @@ There are foure skills that can be assigned:
 * _Bubble_  appear on a flaming and prevent flemming from the coconut rain (bubble icon)
 * _Digger_ dig downwards (axe icon)
 * _Blocker_ stand still and prevent other flemmings from passing (stop icon)
-* _Bomber_ explode after a five-second timer (bomb icon)
+* _Bomber_ kill all the Blockers (bomb icon)
 
 Player can mute/unmute and pause the game using the right button in the bottom menu. It Is also possible to increase/decrease the speed of appearance flemmings on the board.
 
@@ -37,7 +37,7 @@ Są cztery umiejętności, które można przypisać flamingowi:
 * _Bąbelek_ :  pojawia się na wybranym flamingu i chroni go przed deszczem kokosów (ikona bąbelka)
 * _Kopacz_ :za pomocą własnych rąk kopie w ziemi pionowy korytarz (ikona kilofa)
 * _Porządkowy_: zatrzymuje się i nie pozwala innym flamingom przejść (znak stop)
-* _Bomba_ : wybrany flaming eksploduje po 3 sekundach (ikona bomby)
+* _Bomba_ : wszystkie flamingi pilnujące porządku eksplodują (ikona bomby)
 
 Gra może zostać wyciszona lub zatrzymana przy użyciu dolnego menu. Dodatkowo, gracz może przyspieszyc lub spowolnić ilość flamingów pojawiających się na ekranie.
     
