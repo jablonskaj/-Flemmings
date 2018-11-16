@@ -57,8 +57,6 @@ Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszk�
   
 * [Sound2](https://opengameart.org/content/menu-choice)  
   * License: CC-0
-* [Alarm](https://opengameart.org/content/short-alarm)  
-  * License: CC-0
   
 * [Sound3](https://opengameart.org/content/laser-fire)  
   * Author: _dklon_
@@ -66,6 +64,10 @@ Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszk�
   
 * [Sound4](https://opengameart.org/content/cork)  
   * Author: _Blender Foundation_
+  * License: CC-BY 3.0
+  
+* [NoActiveButton](https://opengameart.org/content/quick-zap)  
+  * Author: _dklon_
   * License: CC-BY 3.0
   
 * [Explosion](https://opengameart.org/content/explosion-0)  
