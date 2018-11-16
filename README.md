@@ -19,6 +19,12 @@ Player can mute/unmute and pause the game using the right button in the bottom m
 
 To exit the game press  _Esc_ or _q_.
 
+## Requirements
+
+collections2==0.3.0
+pygame==1.9.4
+
+
 ### Wersja polska
 
 #  Flamingi
@@ -42,6 +48,11 @@ Są cztery umiejętności, które można przypisać flamingowi:
 Gra może zostać wyciszona lub zatrzymana przy użyciu dolnego menu. Dodatkowo, gracz może przyspieszyc lub spowolnić ilość flamingów pojawiających się na ekranie.
     
 Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszką ikonę zamknięcia _x_.      
+
+## Wymagania
+
+collections2==0.3.0
+pygame==1.9.4
 
 ## Źródła / Sources: 
 
