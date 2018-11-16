@@ -94,3 +94,6 @@ Grę można zakończyć wciskając klawisz _Esc_ lub _q_ albo wybierając myszk�
 * [Puddle](https://gallery.yopriceville.com/Free-Clipart-Pictures/Transparent_Water_PNG_Clipart#.W-nlAC2Bg_U)
 * [WoodenTile](https://gallery.yopriceville.com/Backgrounds/Wooden_Background#.W-np8i2BjUo) 
 
+## License
+
+This project is licensed under the MIT License.
